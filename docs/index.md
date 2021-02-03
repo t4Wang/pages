@@ -36,5 +36,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-![梁家辉](https://github.com/t4Wang/pages/blob/main/docs/imgs/%E6%96%B0%E9%BE%99%E9%97%A8%E5%AE%A2%E6%A0%88-%E6%A2%81%E5%AE%B6%E8%BE%89.png)
+![梁家辉](https://github.com/t4Wang/pages/blob/main/docs/imgs/img1.png)
 
